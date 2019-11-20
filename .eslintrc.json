@@ -1,7 +1,7 @@
-{
-    "extends":["airbnb-base"],
-    "rules": {
-        "no-unused-vars":"error",
-        "linebreak-style": ["error", "windows"]
-    }
-}
+// {
+//     "extends":["airbnb-base"],
+//     "rules": {
+//         "no-unused-vars":"error",
+//         "linebreak-style": ["error", "windows"]
+//     }
+// }

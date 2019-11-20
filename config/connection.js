@@ -11,5 +11,3 @@ exports.pool = new Pool({
   ssl: true,
   // sslfactory: org.postgresql.ssl.NonValidatingFactory
 });
-
-
